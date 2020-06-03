@@ -1,0 +1,397 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: 'Fira Sans', sans-serif;
+}
+.borderheader{
+	height: 10px;
+	background-color: #b0b0b0;
+}
+.headerbanner{
+	background: url(../img/banner.jpg) no-repeat;
+	background-size: cover;
+}
+
+.mylogo{
+	width: 400px;
+	margin-top: 67px;
+	margin-left: 22px;
+}
+.mylogo2{
+	width: 400px;
+	margin-top: 67px;
+	margin-left: 22px;
+	margin-bottom: 20px;
+}
+
+.menubar{
+margin-top: 97px;
+}
+
+.menubar ul{
+	list-style: none;
+	
+	
+	text-decoration: none
+}
+
+.menubar li{
+	display: inline-block;
+	margin:0 30px;
+	color: white;
+
+}
+
+.menubar li a{
+color: white;
+	
+}
+
+
+
+
+.menubartwo{
+margin-top: 90px;
+}
+
+.menubartwo ul{
+	list-style: none;
+	
+	
+	text-decoration: none
+}
+
+.menubartwo li{
+	display: inline-block;
+	margin:0 28px;
+	color: #009688;
+
+}
+
+.menubartwo li a{
+color: #009688;
+	font-size: 18px;
+}
+
+
+
+
+.header-intro{
+	margin-top: 131px;
+	margin-bottom: 288px
+}
+
+.header-intro h1{
+	color: white;
+	padding:26px 29px 26px 50px;
+	background-color: #0000008f;
+	width: 86%;
+}
+
+.header-intro p{
+	font-size: 15px;
+color: white;
+margin-top: 30px;
+
+}
+
+
+.header-intro span{
+margin-top: 75px;
+margin-bottom: 40px;
+border-bottom: 1px solid white;
+width: 20px;
+display: block;
+}
+
+
+.header-intro button{
+color: white;
+border: 2px solid white;
+padding: 22px 102px;
+}
+
+
+
+
+
+
+
+
+
+.service-one{
+	background-color: #f6f6f6;
+	position: relative;
+}
+
+.one-text{
+	margin-top: 193px;
+	margin-bottom:116px;
+}
+
+.one-text h1{
+margin-top: 10px;
+margin-bottom:10px;
+}
+
+.one-text span{
+margin-top: 17px;
+margin-bottom: 55px;
+border-bottom: 1px solid black;
+width: 20px;
+display: block;
+}
+
+.one-text p{
+font-size: 15px;
+color: #888888;
+width: 60%;
+}
+
+.one-image{
+	position: absolute;
+	top: 39%;
+    left: 33%;
+    z-index: 2;
+	
+}
+.one-image img{
+	
+}
+
+
+
+
+
+
+.service-onee{
+	position: relative;
+}
+
+.one-textt{
+	margin-top: 60px;
+	margin-bottom:86px;
+}
+
+.one-textt h1{
+
+margin-bottom:93px;
+}
+
+
+.one-textt p{
+font-size: 15px;
+color: #888888;
+width: 80%;
+margin-bottom: 44px;
+}
+
+
+
+.one-imagee img{
+	width: 95%;
+position: absolute;
+ top: 13%;
+ right: 25%;
+}
+
+.one-imagee p{
+position: absolute;
+top: 57%;
+font-size: 15px;
+color: #888888;
+width: 80%;
+margin-bottom: 44px;
+}
+
+
+
+
+
+
+
+.service-two{
+	background-color: #28282e;
+	position: relative;
+}
+
+.two-text{
+	margin-top: 193px;
+	margin-bottom:116px;
+}
+
+.two-text h1{
+	color: white;
+margin-top: 10px;
+margin-bottom:10px;
+}
+
+.two-text span{
+margin-top: 17px;
+margin-bottom: 55px;
+border-bottom: 1px solid white;
+width: 20px;
+display: block;
+}
+
+.two-text p{
+font-size: 15px;
+color: white;
+width: 60%;
+}
+
+.two-text button{
+	letter-spacing: 3px;
+	font-size: 10px;
+	margin-top: 70px;
+	text-decoration: none;
+	color: white;
+	border:2px solid white;
+	padding: 22px 28px;
+	background-color: transparent;
+}
+
+
+.two-image{
+	position: absolute;
+	top: 49%;
+	left: 42%;
+   
+	
+}
+.two-image img{
+	width: 75%;
+}
+
+
+
+.contactpage{
+	background-color: #ee4a3f;
+	position: relative;
+}
+
+.contactpage h1{
+margin-top: 30px;
+color: white;
+margin-bottom: 15px;
+}
+
+.contactpage h2{
+	margin-top: 5px;
+font-size: 85%;
+color: white;
+
+}
+
+.contactpage p{
+margin-top: 15px;
+margin-bottom: 15px;
+color: white;
+}
+
+.cntctlimg{
+width: 110%;
+}
+
+.cntctrimg{
+    position: absolute;
+    width: 76%;
+    top: 18%;
+    left: 21%;
+}
+
+.frm-cntrl{
+	background-color: #ff6258;
+	border:none;
+	width: 120%;
+    height: 45px;
+}
+
+.frm-cntr2{
+position: absolute;
+    background-color: transparent;
+    border: none;
+    width: 68%;
+    height: 43px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-style: italic;
+        top: 45%;
+    left: 30%;
+}
+
+
+.contctfrm{
+	padding-bottom: 60px;
+}
+
+
+
+footer{
+	height: 80px;
+	background-color: #ef4035;
+	position: relative;
+}
+
+footer p{
+
+	text-align:center;
+	display: block;
+	color: white;
+	font-size: 15px;
+	position: absolute;
+	top: 40%;
+	left:42%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Media Querry Starts*/
+
+
+/*mobile Device*/
+@media (min-width:0px) and (max-width: 500px) {
+
+}
+
+
+
+/*small Device*/
+@media (min-width:500.01px) and (max-width: 768px) {
+
+	
+}
+
+/*Medium Device*/
+@media (min-width:768.01px) and (max-width: 1140px) {
+
+	
+}
+
+/*large Device*/
+@media (min-width:1140.01px)  {
+
+	
+}
+
+/*Media Querry Ends*/
